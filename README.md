@@ -1,16 +1,30 @@
-# React + Vite
+# REAGE - Rede de Apoio a Grupos de Estudo 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O **REAGE** é uma plataforma desenvolvida para centralizar e facilitar a colaboração acadêmica entre alunos da **UFC - Campus Russas**. Este projeto nasceu na disciplina de **Engenharia de Requisitos**, onde o foco principal foi a aplicação de processos de elicitação, análise e documentação de requisitos de software.
 
-Currently, two official plugins are available:
+## 🧠 Engenharia e Desenvolvimento
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este repositório é uma iniciativa pessoal para transformar o planejamento acadêmico em uma aplicação real, unindo a teoria da documentação com a prática da codificação:
 
-## React Compiler
+* **Elicitação e Análise:** Como parte de uma equipe de 5 integrantes, participei ativamente das entrevistas e técnicas de elicitação para identificar as necessidades reais dos estudantes.
+* **Design Colaborativo:** Auxiliei no design de interface (UI/UX) no Figma, colaborando com a equipe para criar um protótipo que servisse como ferramenta de validação dos requisitos.
+* **Desenvolvimento Frontend:** Como objetivo pessoal de consolidar conhecimentos em **React** e **Tailwind CSS**, assumi o desafio de codificar este projeto de forma individual, traduzindo o protótipo do Figma em uma aplicação funcional e navegável.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias Aplicadas
 
-## Expanding the ESLint configuration
+* **React.js**: Criação de interfaces dinâmicas e componentizadas.
+* **Tailwind CSS (v4)**: Estilização moderna com foco em performance e responsividade.
+* **React Router Dom**: Sistema de rotas para navegação Single Page (SPA).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Estrutura do Projeto
+
+* `/src/components`: Componentes modulares e reutilizáveis (Headers, Cards, Sidebars).
+* `/src/pages`: Telas principais da aplicação (Home e Grupos).
+
+## 🔧 Como Executar
+
+1. Clone o repositório.
+2. Instale as dependências: `npm install`.
+3. Inicie o servidor: `npm run dev`.
+
+---
